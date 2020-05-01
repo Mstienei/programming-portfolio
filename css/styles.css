@@ -1,0 +1,12 @@
+.head{
+  text-align: center;
+  background-color: #009999;
+  height: 50px;
+}
+body{
+  background-color: #e6ffff;
+  font-size: 17px;
+}
+.introduction a{
+  color: black;
+}
