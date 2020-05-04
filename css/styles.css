@@ -25,13 +25,13 @@ h3{
 }
 .main-left{
   border: 2px solid #009999;
-  width: 400px;
+  width: 320px;
   float: left;
 
 }
 .main-right{
   border: 2px solid #009999;
-  width: 400px;
+  width: 320px;
   float: right;
 }
 @media screen
