@@ -4,8 +4,13 @@
 
 ## Project Description
 This is a web portfolio to showcase my week one progress in my journey to become a developer
-
+##Project Instructions
 This project has been written in html and css
+Click on the links to navigate through the site
+
+##Site url
+
+mstienei.github.io/programming-portfolio/
 
 ## License info
 MIT License
